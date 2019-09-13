@@ -1,6 +1,6 @@
-# build_lauout_tutorial
+# build_layout_tutorial
 
-Tutorial for building layout in offial site.
+Tutorial for building layout in offical site.
 
 ## Getting Started
 
